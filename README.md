@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS keepalive (
 
 ## 触发方式
 
-- **自动**：每周一和周四北京时间 09:00
+- **自动**：每天北京时间 09:00 和 21:00
 - **手动**：Actions → Supabase Keepalive → Run workflow
 
 ## 工作原理
